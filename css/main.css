@@ -1615,7 +1615,7 @@ font-weight: 900;
     overflow: hidden;
 }
 
-video
+iframe
 {
     display: block;
 width: 750px;
@@ -1642,7 +1642,7 @@ width: 95%;
         width: 200px;
 
     }
-     video
+     iframe
     {
         width: 230px;
         height: 130px;
