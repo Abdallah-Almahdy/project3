@@ -1615,7 +1615,7 @@ font-weight: 900;
     overflow: hidden;
 }
 
-iframe
+video
 {
     display: block;
 width: 750px;
@@ -1642,9 +1642,10 @@ width: 95%;
         width: 200px;
 
     }
-    iframe
+     video
     {
-        height:100px ;
+        width: 230px;
+        height: 130px;
         border: 2px solid white;
     }
     .vidos .holder .show .info
